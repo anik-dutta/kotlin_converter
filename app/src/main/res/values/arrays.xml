@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="length_units">
+        <item>Meters</item>
+        <item>Kilometers</item>
+        <item>Centimeters</item>
+        <item>Millimeters</item>
+    </string-array>
+
+    <string-array name="weight_units">
+        <item>Grams</item>
+        <item>Kilograms</item>
+        <item>Milligrams</item>
+    </string-array>
+</resources>
